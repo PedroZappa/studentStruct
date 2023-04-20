@@ -6,8 +6,6 @@ This C program demonstrates the usage of structures to store and display the inf
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -30,18 +28,3 @@ gcc studentStruct.c -o studentStruct
 ```
 
 4. Follow the on-screen prompts to enter the first name and marks for each student.
-
-## Contributing
-
-To contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes to the new branch.
-4. Create a pull request with a clear description of your changes.
-
-For more information on contributing, refer to the [Contributing section](https://www.makeareadme.com/#contributing) on makeareadme.com or consider creating a separate `CONTRIBUTING.md` file.
-
-## License
-
-This project is open-source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
