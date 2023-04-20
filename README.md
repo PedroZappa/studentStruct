@@ -1,4 +1,4 @@
-# studentStruct.c
+# README: studentStruct.c
 
 This C program demonstrates the usage of structures to store and display the information of multiple students. It takes input from the user for the first name and marks of 5 students and assigns them a roll number. The program then prints the information for each student.
 
